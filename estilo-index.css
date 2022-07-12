@@ -4,51 +4,14 @@ html {
 }
 
 .container1 {
-    display: flex;
-    
+
 }
 
 .containerItem1 {
-    background-color: #495C83;
-    padding: 10px 15px 10px 10px;
-    margin: 25px;
-    text-align: center;
-    width: 300px;
-    height: 60px;
-    font-size: 25px;
 
-}
-a {
-    text-decoration: none;
-    color: #F7EDDB;
 
-}
-
-i {
-    color: #F7EDDB;
 }
 
 
 
-
-@media only screen and (max-width:800px){
-
-    .container1 {
-        display: block;
-        flex-wrap: wrap;
-        width: 100%;
-        
-    }
-
-    .containerItem1 {
-        background-color: #C8B6E2;
-        padding: 15px;
-        margin: 25px;
-        text-align: center;
-        width: 150px;
-        height: 100px;
-        font-size: 25px;
-        text-decoration: none;
-    }
-    
-}
+@media only screen and (max-width:800px){}
