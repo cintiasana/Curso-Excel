@@ -1,2 +1,2 @@
-# Curso-Excel.github.io
+# Curso-Excel
 Curso de Excel
